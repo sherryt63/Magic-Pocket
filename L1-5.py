@@ -1,6 +1,6 @@
-x=input()
-y=input()
-z=input()
+x=int(input())
+y=int(input())
+z=int(input())
 #输入上述三个数字时候要换行
 
 temp_1=0
